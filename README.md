@@ -13,7 +13,7 @@
 - Firebase – frontend external  
 - Hosting servers issues, bad weather and external problems 
 - Cloudzy cheaper than azure or google  
-- Ejs and svelt  
+- Ejs and svelte  
 
 ### One Concept to learn about .... Svelte
 - What is Svelte and how do we use it?
