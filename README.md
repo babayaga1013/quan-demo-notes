@@ -12,6 +12,6 @@
 - Namecheap 
 - Reverse proxy 
 - Firebase – frontend external  
-- Hosting servers, bad weather and external problems 
+- Hosting servers issues, bad weather and external problems 
 - Cloudzy cheaper than azure or google  
 - Ejs and svelt  
