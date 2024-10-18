@@ -17,7 +17,8 @@
 
 ### One Concept to learn about .... Svelte
 - What is Svelte?
-  Svelte is a modern JavaScript Framework used to build user interfaces, a little different from traditional frameworks such as React and Vue. It takes a complier first approach, meaning most of the work is done during the build time, therefore, resulting in smalled/faster and more optimized applications. Svelte is a lot less "wordy" and  very lean which means you can code more efficent and not have to worry about syntax. It also includes various tools and features that make development go very smoothly.
+
+Svelte is a modern JavaScript Framework used to build user interfaces, a little different from traditional frameworks such as React and Vue. It takes a complier first approach, meaning most of the work is done during the build time, therefore, resulting in smalled/faster and more optimized applications. Svelte is a lot less "wordy" and  very lean which means you can code more efficent and not have to worry about syntax. It also includes various tools and features that make development go very smoothly.
   
 ### Questions for Our Guest Mr. Quan
 - How can I access my home computer remotely?
