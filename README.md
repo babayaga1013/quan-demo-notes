@@ -15,3 +15,7 @@
 - Hosting servers issues, bad weather and external problems 
 - Cloudzy cheaper than azure or google  
 - Ejs and svelt  
+
+### Questions for Our Guest Mr. Quan
+- How can I access my home computer remotely?
+- Other than coding, where should I put my attention/studies, that can be benefical for me to find a job?
