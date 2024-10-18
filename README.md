@@ -1,2 +1,3 @@
 # quan-demo-notes
-Homework assignment for Quan Demo notes
+
+###dev-mary-lab: quan demo notes
